@@ -17,12 +17,23 @@ from functools import wraps
 load_dotenv()
 try:
     cred_path = os.getenv("FIREBASE_SERVICE_ACCOUNT_KEY_PATH")
-    if not cred_path:
-        raise ValueError("FIREBASE_SERVICE_ACCOUNT_KEY_PATH not set in .env file")
-    
-    cred = credentials.Certificate(cred_path)
-    firebase_admin.initialize_app(cred)
-    print("Firebase Admin SDK initialized successfully.")
+    cred_json_env = os.getenv("FIREBASE_SERVICE_ACCOUNT_KEY_JSON")
+
+    if cred_json_env:
+        # Prefer JSON from env if provided (Render-friendly, no files committed)
+        try:
+            service_account_info = json.loads(cred_json_env)
+        except json.JSONDecodeError:
+            raise ValueError("FIREBASE_SERVICE_ACCOUNT_KEY_JSON is not valid JSON")
+        cred = credentials.Certificate(service_account_info)
+        firebase_admin.initialize_app(cred)
+        print("Firebase Admin SDK initialized from FIREBASE_SERVICE_ACCOUNT_KEY_JSON.")
+    elif cred_path:
+        cred = credentials.Certificate(cred_path)
+        firebase_admin.initialize_app(cred)
+        print("Firebase Admin SDK initialized from FIREBASE_SERVICE_ACCOUNT_KEY_PATH.")
+    else:
+        raise ValueError("Set FIREBASE_SERVICE_ACCOUNT_KEY_JSON or FIREBASE_SERVICE_ACCOUNT_KEY_PATH in environment")
 except Exception as e:
     print(f"CRITICAL: Failed to initialize Firebase Admin SDK. Admin features will not work. Error: {e}")
 
