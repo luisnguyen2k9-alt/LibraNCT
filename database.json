@@ -1,0 +1,502 @@
+[
+    {
+        "book_id": "B0001",
+        "book_name": "Tai nạn quanh ta | Tập 1",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0002",
+        "book_name": "Thiên tai địch hoạ | Tập 2",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0003",
+        "book_name": "Những gương mặt không thể nào quên",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0004",
+        "book_name": "Nghĩ thông minh làm sáng suốt",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0005",
+        "book_name": "100 gương phấn đấu của người đoạt giải Nobel",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": true,
+        "return_date": "03/11/2025"
+    },
+    {
+        "book_id": "B0006",
+        "book_name": "Một thế kỷ yêu nước văn học | Phần 1",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0007",
+        "book_name": "Lẽ phải - Hoàng Sa & Trường Sa",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0008",
+        "book_name": "Những bằng chứng Hoàng Sa & Trường Sa",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0009",
+        "book_name": "Đất rừng Phương Nam",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0010",
+        "book_name": "Truyện thực tập",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0011",
+        "book_name": "Cánh đồng bất tận",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0012",
+        "book_name": "Búp sen xanh",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0013",
+        "book_name": "Võ Nguyên Giáp - Hào khí 100 năm",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0014",
+        "book_name": "Trang sức của người Việt cổ",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0015",
+        "book_name": "Tìm về ý nghĩa của lao động và kĩ thuật",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0016",
+        "book_name": "365 thể trọng sáng tạo",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0017",
+        "book_name": "Trường xanh",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0018",
+        "book_name": "Trò chuyện với con gái về phân biệt chủng tộc",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0019",
+        "book_name": "Tuổi im lặng",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0020",
+        "book_name": "Thư gửi người sắp lớn",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0021",
+        "book_name": "Nguyễn Bính tác phẩm và lời bình",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0022",
+        "book_name": "Người mẹ cầm súng",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0023",
+        "book_name": "Nguyễn Tuân - Tác phẩm và lời bình",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0024",
+        "book_name": "Vừa nhắm mắt, vừa mở cửa sổ",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0025",
+        "book_name": "Chí Phèo",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0026",
+        "book_name": "Đảo",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0027",
+        "book_name": "Tắt đèn",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0028",
+        "book_name": "Rèn luyện trí nhớ",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0029",
+        "book_name": "Đổi mới tư duy",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0030",
+        "book_name": "Truyện cổ tích về mẹ",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0031",
+        "book_name": "Cho đi là mãi mãi",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0032",
+        "book_name": "Bồ câu chung mái vòm",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0033",
+        "book_name": "Tôi đi làm tình báo",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": true,
+        "return_date": "06/11/2025"
+    },
+    {
+        "book_id": "B0034",
+        "book_name": "Vũ Trọng Phụng - Tác phẩm và lời bình",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0035",
+        "book_name": "Truyện con mèo dạy hải âu bay",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": true,
+        "return_date": "06/11/2025"
+    },
+    {
+        "book_id": "B0036",
+        "book_name": "Bá tước Mông-tơ Crixto",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0037",
+        "book_name": "Lớp phó trật tự",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0038",
+        "book_name": "Còn chút gì để nhớ",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0039",
+        "book_name": "Quân sự Việt Nam",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0040",
+        "book_name": "Non nước xứ Quảng",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0041",
+        "book_name": "Chuyện xưa tích cũ",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0042",
+        "book_name": "Tây Ban Nga",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0043",
+        "book_name": "Vố lừa chim Hoàng Yến",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0044",
+        "book_name": "Những rung động đầu đời",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0045",
+        "book_name": "Nanh trắng",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0046",
+        "book_name": "Cảnh sát trưởng bọ ngựa",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0047",
+        "book_name": "Hạnh phúc ở đâu?",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0048",
+        "book_name": "Truyện Trung Quốc lược ngắn",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0049",
+        "book_name": "Hồn Bướm Mơ Tiên",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0050",
+        "book_name": "Người Mohican cuối cùng",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0051",
+        "book_name": "Người đàn ông không mặt",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0052",
+        "book_name": "120 mẫu chuyện vui Anh - Việt",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0053",
+        "book_name": "Truyện trạng Việt Nam",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0054",
+        "book_name": "250 câu đố về danh xưng & nhân vật",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0055",
+        "book_name": "Những bài văn mẫu nghị luận xã hội",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0056",
+        "book_name": "Những bài văn nghị luận 11",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0057",
+        "book_name": "Tuyển chọn những bài văn hay",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0058",
+        "book_name": "Truyện dân gian Việt Nam",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0059",
+        "book_name": "Phê bình, bình luận văn học",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0060",
+        "book_name": "Phương pháp làm bài văn nghị luận",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0061",
+        "book_name": "Những bài văn mẫu 11",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0062",
+        "book_name": "Sinh học 12 chuyên sâu",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0063",
+        "book_name": "Bồi dưỡng HSG, LTDHCD Sinh học",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0064",
+        "book_name": "Tài liệu chuyên sinh học Tế bào",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0065",
+        "book_name": "Tài liệu tổng ôn tập Sinh học",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0066",
+        "book_name": "Phương pháp giải các bài toán Sinh học",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0067",
+        "book_name": "Văn học tuổi trẻ - Về thăm thầy cũ...",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0068",
+        "book_name": "Rise & Shine | Year Book 2021",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0069",
+        "book_name": "Văn học tuổi trẻ - Chúc mừng 20/11",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0070",
+        "book_name": "Những người phụ nữ tôi yêu",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    },
+    {
+        "book_id": "B0071",
+        "book_name": "Văn học và tuổi trẻ | Chung",
+        "author": "Chưa rõ",
+        "quantity": 1,
+        "is_borrowed": false
+    }
+]

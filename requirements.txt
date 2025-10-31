@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+python-dotenv
+requests
+python-barcode[images]
+fpdf2
+cloudinary
+Pillow
+firebase-admin
+pyopenssl
+gunicorn
